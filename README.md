@@ -1,4 +1,4 @@
-
+# nest_practice_movie
 
 ## Description
 
@@ -6,13 +6,14 @@ Creating simple REST api using the NEST.js framework
 
 ## Installation
 
-```bash
+```
 $ npm install
+
 ```
 
 ## Running the app
 
-```bash
+```
 # development
 $ npm run start
 
@@ -21,11 +22,12 @@ $ npm run start:dev
 
 # production mode
 $ npm run start:prod
+
 ```
 
 ## Test
 
-```bash
+```
 # unit tests
 $ npm run test
 
@@ -34,8 +36,9 @@ $ npm run test:e2e
 
 # test coverage
 $ npm run test:cov
+
 ```
 
 ## License
 
-Nest is [MIT licensed](LICENSE).
+Nest is [MIT licensed](notion://www.notion.so/LICENSE).
