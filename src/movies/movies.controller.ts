@@ -34,7 +34,6 @@ export class MoviesController {
 
   @Post('/')
   postOne(@Body() movieBody: CreateMovieDto): Promise<Movie> {
-    console.log(this.moviesService.createMovie(movieBody));
     return this.moviesService.createMovie(movieBody);
   }
 
